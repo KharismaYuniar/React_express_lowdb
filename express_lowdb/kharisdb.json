@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "nama": "dimas",
+      "usia": 22
+    },
+    {
+      "nama": "ujang",
+      "usia": 29
+    },
+    {
+      "nama": "amir",
+      "usia": 22
+    },
+    {
+      "nama": "caca",
+      "usia": 27
+    },
+    {
+      "nama": "wulan",
+      "usia": "21"
+    },
+    {
+      "nama": "Pandev",
+      "usia": "25",
+      "alamat": "Bekasi"
+    },
+    {
+      "nama": "rudi",
+      "usia": "23",
+      "alamat": "banten"
+    }
+  ]
+}
